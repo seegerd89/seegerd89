@@ -47,6 +47,6 @@ I operate a self-hosted infrastructure environment:
 
 ## 📂 Featured Project
 
-👉 Check out my homelab documentation repository for a detailed breakdown of my setup.
+👉 Check out my [homelab documentation repository](../../../Homelab) for a detailed breakdown of my setup.
 
 ---
