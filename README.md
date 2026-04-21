@@ -12,6 +12,7 @@ I am currently transitioning into IT and bring strong problem-solving skills, a 
 **Systems**
 - Linux (Fedora KDE)
 - TrueNAS
+- Proxmox
 
 **Networking**
 - DNS (Pi-hole)
